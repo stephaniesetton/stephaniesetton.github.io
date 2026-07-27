@@ -82,6 +82,7 @@ a{color:inherit}
 .content p:last-child{margin-bottom:0}
 
 /* ---- work ---- */
+.work-intro{margin-bottom:20px}
 .entry{display:block;text-decoration:none;padding:20px 22px;margin:0 -22px;border-radius:8px;transition:background .2s}
 .entry:hover{background:var(--panel)}
 .entry+.entry{margin-top:4px}
